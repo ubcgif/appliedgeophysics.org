@@ -1,0 +1,9 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Applied Geophysics
+  description: Our research group advances numerical methods in simulations, inversions, and machine learning.
+site:
+  template: book-theme
+  domains:
+    - appliedgeophysics-landing.curve.space
