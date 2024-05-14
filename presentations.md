@@ -1,6 +1,8 @@
 ---
 title: Presentations
 description: Presentations by the UBC-GIF team
+options:
+  hide_toc: true
 ---
 
 :::{cn:articles}

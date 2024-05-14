@@ -1,6 +1,8 @@
 ---
 title: Publications
 description: Publications by the UBC-GIF team
+options:
+  hide_toc: true
 ---
 
 :::{cn:articles}
