@@ -1,11 +1,13 @@
 ---
-title: Our Mission and Approach
-subtitle: Advancing applied geophysics
+title: About
+subtitle: Advancing quantitative methods in applied geophysics
 ---
 
-## Our Mission
+The UBC-Geophysical Inversion Facility (UBC-GIF) is an academic research unit within the Department of Earth, Ocean and Atmospheric Sciences ([EOAS](http://eoas.ubc.ca)) at the University of British Columbia ([UBC](https://www.ubc.ca)).
 
-Advance quantitative methods in applied geophysics.
+<!-- ## Our Mission
+
+Advance quantitative methods in applied geophysics. -->
 
 ## Our Approach
 

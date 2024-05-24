@@ -18,7 +18,7 @@
 format: jb-book
 root: index
 chapters:
-  - file: mission
+  - file: about
   - file: open-science
   - file: presentations
   - file: publications

@@ -17,8 +17,8 @@ Data
 Methods
 : Numerical simulations of partial differential equations, optimization techniques, inverse theory, machine learning, open source software.
 
-## AQGeo Consortium
+## Research Consortia
 
 Our research is supported by the Geophysics Inversion Consortium. Our members have access to researchers, private educational materials, and the ability to work with our research group to create research priorities.
 
-[Geophysics Inversion Consortium - Fund I](https://aqgeo.appliedgeophysics.org)
+[Advanced Quantative Geosciences in Mineral Exploration and Mining (AQGeo)](https://aqgeo.appliedgeophysics.org)
