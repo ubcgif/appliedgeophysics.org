@@ -3,7 +3,16 @@ version: 1
 project:
   title: Applied Geophysics
   description: Our research group advances numerical methods in simulations, inversions, and machine learning.
+  toc:
+    - file: index
+    - file: mission
+    - file: open-science
+    - file: presentations
+    - file: publications
+    - file: team
+  plugins:
+    - lorem.mjs
 site:
   template: book-theme
   domains:
-    - appliedgeophysics-landing.curve.space
+    - stevejpurves-aplanding.curve.space
