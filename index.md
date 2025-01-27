@@ -1,9 +1,27 @@
 ---
-title:
+title: UBC-GIF Research Group
 ---
 
 :::{important} UBC-GIF Research Group
 Our research group advances numerical methods in simulations, inversions, and machine learning. We work on problems in resource exploration, management and environmental applications, foster open science practices, and train the next generation of geoscientists.
+:::
+
+## Latest Papers
+
+:::{cn:articles}
+:venue: appliedgeophysics
+:collection: publications
+:layout: list
+:limit: 3
+:::
+
+## Latest Papers
+
+:::{cn:articles}
+:venue: appliedgeophysics
+:collection: presentations
+:layout: cards
+:limit: 3
 :::
 
 ## Our Focus
