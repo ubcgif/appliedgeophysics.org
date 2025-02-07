@@ -15,7 +15,7 @@ Our research group advances numerical methods in simulations, inversions, and ma
 :limit: 3
 :::
 
-## Latest Papers
+## Latest Presentations
 
 :::{cn:articles}
 :venue: appliedgeophysics
