@@ -12,6 +12,10 @@ Our research group advances numerical methods in simulations, inversions, and ma
 :venue: appliedgeophysics
 :collection: publications
 :layout: list
+:show-authors: true
+:show-date: true
+:show-thumbnails: true
+:pagination: more
 :limit: 3
 :::
 
@@ -20,7 +24,11 @@ Our research group advances numerical methods in simulations, inversions, and ma
 :::{cn:articles}
 :venue: appliedgeophysics
 :collection: presentations
-:layout: cards
+:layout: list
+:show-authors: true
+:show-date: true
+:show-thumbnails: true
+:pagination: more
 :limit: 3
 :::
 
