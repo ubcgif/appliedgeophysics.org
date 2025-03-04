@@ -13,6 +13,7 @@ Our research group advances numerical methods in simulations, inversions, and ma
 :collection: publications
 :layout: list
 :show-authors: true
+:show-date: true
 :show-thumbnails: true
 :pagination: more
 :limit: 3
@@ -25,6 +26,7 @@ Our research group advances numerical methods in simulations, inversions, and ma
 :collection: presentations
 :layout: list
 :show-authors: true
+:show-date: true
 :show-thumbnails: true
 :pagination: more
 :limit: 3
