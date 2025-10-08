@@ -11,4 +11,5 @@ options:
 :show-thumbnails: true
 :show-date: true
 :show-kind: true
+:show-authors: true
 :::
