@@ -6,6 +6,8 @@ project:
   toc:
     - file: index
     - file: about
+      children:
+        people/lindsey-heagy
     - file: open-science
     - file: presentations
     - file: publications
