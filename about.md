@@ -194,23 +194,13 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :name: Joseph Capriotti
 :position: Postdoctoral Researcher (2021-2023)
 :image: /images/people/JosephCapriotti.png
-<!-- :orcid: 1000-0000-0000-0000 -->
-<!-- :email: name@eoas.ubc.ca -->
-<!-- :github: ghusername -->
-<!-- :linkedin: trail-of-url -->
-<!-- :website: link to personal website -->
-:::
-
-:::{person}
-:name: Thibaut Astic
-:position: Postdoctoral Researcher (2021-2023)
-:image: /images/people/JosephCapriotti.png
 :orcid: 0000-0003-4762-5377
 <!-- :email: name@eoas.ubc.ca -->
 :github: jcapriot
 :linkedin: jcapriot
 <!-- :website: link to personal website -->
 :::
+
 
 <!-- ## GIF 1.0 graduates -->
 
