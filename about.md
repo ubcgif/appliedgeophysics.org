@@ -60,8 +60,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Devin Cowan
 :position: PhD Student
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -72,8 +72,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: John Kuttai
 :position: PhD Student
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -84,8 +84,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Katharina Maetschke
 :position: PhD Student
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-her.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -96,8 +96,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Masayuki Motoori
 :position: PhD Student
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -108,8 +108,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Parth Pokar
 :position: MSc Student
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -120,8 +120,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: John Weis
 :position: PhD Student
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -132,8 +132,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Anran Xu
 :position: PhD Student
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-her.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -144,8 +144,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Roman Shekhtman
 :position: Research Associate
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -160,8 +160,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Jingrong (Mimi) Lin
 :position: MSc Student (graduated 2025)
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-her.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -174,8 +174,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Marco Antonio Couto Jr.
 :position: Postdoctoral Researcher (2024-2025)
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -186,8 +186,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Jorge Lopez-Alvis
 :position: Postdoctoral Researcher (2022-2024)
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
@@ -198,8 +198,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Joseph Capriotti
 :position: Postdoctoral Researcher (2021-2023)
-<!-- :orcid: 1000-0000-0000-0000 -->
 :image: /images/people/placeholder-him.png
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
