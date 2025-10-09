@@ -151,7 +151,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 <!-- :website: link to personal website -->
 :::
 
-# GIF Alumni
+# GIF 2.0 Alumni
 
 ## Graduates
 
@@ -202,5 +202,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::
 
 
-<!-- ## GIF 1.0 graduates -->
+## GIF 1.0 Alumni
+
+Coming soon! Get [in touch](mailto:lheagy@eoas.ubc.ca) if you would like us to add your publications.
 
