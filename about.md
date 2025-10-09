@@ -56,10 +56,10 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :name: Pablo Chang Huang
 :position: MSc Student
 :image: /images/people/PabloChangHuang.png
-<!-- :orcid: 1000-0000-0000-0000 -->
 :email: pchanghuang@eoas.ubc.ca
 :github: pablochanghuang
 :linkedin: pablo-chang-huang-arias-336852230
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :website: link to personal website -->
 :::
 
@@ -78,10 +78,10 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :name: John Kuttai
 :position: PhD Student
 :image: /images/people/JohnKuttai.jpg
-<!-- :orcid: 1000-0000-0000-0000 -->
 :email: jkutt@eoas.ubc.ca
 :github: jkutt
 :linkedin: johnathan-kuttai-391a4183
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :website: link to personal website -->
 :::
 
@@ -89,10 +89,10 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :name: Katharina Maetschke
 :position: PhD Student
 :image: /images/people/KatharinaMaetschke.png
-<!-- :orcid: 1000-0000-0000-0000 -->
 :email: kathim@eoas.ubc.ca
-<!-- :github: ghusername -->
 :linkedin: katharina-maetschke-b1507a241
+<!-- :github: ghusername -->
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :website: link to personal website -->
 :::
 
@@ -132,7 +132,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :::{person}
 :name: Anran Xu
 :position: PhD Student
-:image: /images/people/AnranXu.png
+:image: /images/people/AnranXu.jpg
 :orcid: 0009-0001-9731-377X
 :email: anranxu@eoas.ubc.ca
 :github: anna1963
@@ -144,8 +144,8 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :name: Roman Shekhtman
 :position: Research Associate
 :image: /images/people/RomanShekhtman.png
-<!-- :orcid: 1000-0000-0000-0000 -->
 :email: rshekhtm@eoas.ubc.ca
+<!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :github: ghusername -->
 <!-- :linkedin: trail-of-url -->
 <!-- :website: link to personal website -->
@@ -159,10 +159,10 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :name: Jingrong (Mimi) Lin
 :position: MSc Student (graduated 2025)
 :image: /images/people/JingrongLin.jpeg
+:linkedin: mimi-jingrong-lin-291912aa
 <!-- :orcid: 1000-0000-0000-0000 -->
 <!-- :email: name@eoas.ubc.ca -->
 <!-- :github: ghusername -->
-:linkedin: mimi-jingrong-lin-291912aa
 <!-- :website: link to personal website -->
 :::
 
