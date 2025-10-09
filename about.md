@@ -173,9 +173,9 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :position: Postdoctoral Researcher (2024-2025)
 :image: /images/people/MarcoCouto.png
 :orcid: 0000-0002-5747-1474
-<!-- :email: name@eoas.ubc.ca -->
 :github: marcoutojr
 :linkedin: marco-antonio-couto-jr-9b654146
+<!-- :email: name@eoas.ubc.ca -->
 <!-- :website: link to personal website -->
 :::
 
@@ -184,9 +184,9 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :position: Postdoctoral Researcher (2022-2024)
 :image: /images/people/JorgeLopezAlvis.jpeg
 :orcid: 0000-0001-8626-117X
-<!-- :email: name@eoas.ubc.ca -->
 :github: jlalvis
 :linkedin: jorge-l%C3%B3pez-alvis-ab58b686
+<!-- :email: name@eoas.ubc.ca -->
 <!-- :website: link to personal website -->
 :::
 
@@ -195,14 +195,14 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :position: Postdoctoral Researcher (2021-2023)
 :image: /images/people/JosephCapriotti.png
 :orcid: 0000-0003-4762-5377
-<!-- :email: name@eoas.ubc.ca -->
 :github: jcapriot
 :linkedin: jcapriot
+<!-- :email: name@eoas.ubc.ca -->
 <!-- :website: link to personal website -->
 :::
 
 
-## GIF 1.0 Alumni
+# GIF 1.0 Alumni
 
 Coming soon! Get [in touch](mailto:lheagy@eoas.ubc.ca) if you would like us to add your publications.
 
