@@ -15,3 +15,12 @@ site:
   template: book-theme
   domains:
     - appliedgeophysics-landing.curve.space
+  nav:
+    - title: About
+      url: /about
+    - title: Publications
+      url: /publications
+    - title: Presentations
+      url: /presentations
+    - title: Open Science
+      url: /open-science
