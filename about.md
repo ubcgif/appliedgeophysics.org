@@ -50,6 +50,17 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 :website: https://www.santisoler.com
 :::
 
+:::{person}
+:name: Wouter Deleersnyder
+:position: Postdoctoral Researcher
+:image: /images/people/WouterDeleersnyder.jpeg
+:orcid: 0000-0003-4481-1801
+:email: wdls@eoas.ubc.ca
+:github: wouterdls
+:linkedin: wouter-deleersnyder
+:website: https://www.wouterdeleersnyder.be/
+:::
+
 ## Graduate Students
 
 :::{person}
