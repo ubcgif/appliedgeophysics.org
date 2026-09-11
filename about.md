@@ -18,7 +18,7 @@ The University of British Columbia Geophysical Inversion Facility (UBC-GIF) is a
 ## Leadership
 
 :::{person}
-:name: Lindsey Heagy
+:name: [Lindsey Heagy](/lindsey-heagy)
 :position: Assistant Professor, GIF director
 :orcid: 0000-0002-1551-5926
 :image: /images/people/LindseyHeagy.jpg
