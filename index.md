@@ -1,6 +1,17 @@
 ---
 title: UBC-GIF Research Group
+site:
+  hide_outline: true
+  hide_title_block: true
 ---
+
+:::{hero .col-screen} Geophysical Inversion Facility
+:background-image: hero.webp
+:max-width: 100, 80, 75, 60
+:overlay: 50
+:actions: [Recent Research](publications.md) [Learn About Us](about.md)
+UBC-GIF advances methods in computational geophysics to solve applied problems. Explore our recent research, presentations, and projects
+:::
 
 :::{note} UBC-GIF Research Group
 :icon: False
